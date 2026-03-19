@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# dotenv
+.env
+
+# Output files (generated at runtime)
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
